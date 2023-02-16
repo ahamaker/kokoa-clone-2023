@@ -1,0 +1,4 @@
+/* :root는 <html>와 동일한 의미임. html문서의 뿌리 element가 <html>이므로 이런 이름이 붙여진 듯함*/
+:root {
+  --yellow: #fae100;
+}
