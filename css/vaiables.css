@@ -1,5 +1,7 @@
 /* :root는 <html>와 동일한 의미임. html문서의 뿌리 element가 <html>이므로 이런 이름이 붙여진 듯함*/
 :root {
-  --yellow: #fae100;
-  --horizontal-space: 25px;
+	--yellow: #fae100;
+	--horizontal-space: 25px;
+	--borderline: 1px solid rgba(0, 0, 0, 0.2);
+	--text-color-gray: rgba(0, 0, 0, 0.5);
 }
